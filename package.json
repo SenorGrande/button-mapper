@@ -1,0 +1,23 @@
+{
+  "name": "button-mapper",
+  "version": "1.0.0",
+  "description": "An app to map Arduino input to a keyboard function with RobotJS and Johnny-Five",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SenorGrande/button-mapper.git"
+  },
+  "author": "SenorGrande",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SenorGrande/button-mapper/issues"
+  },
+  "homepage": "https://github.com/SenorGrande/button-mapper#readme",
+  "dependencies": {
+    "johnny-five": "^2.0.0",
+    "robotjs": "^0.6.0"
+  }
+}
